@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Title">ATLAS</string>
+    <string name="ques1"> 1.) What is the capital of India ?</string>
+    <string name="ans11">New Delhi.</string>
+    <string name="ans12">Chandigarh.</string>
+    <string name="ans13">Mumbai.</string>
+    <string name="ans14">Hyderabad.</string>
+    <string name="ques2"> 2.) What is the capital of The U.S.A ?</string>
+    <string name="ans21">California.</string>
+    <string name="ans22">Florida.</string>
+    <string name="ans23">Washington D.C.</string>
+    <string name="ans24">Virginia.</string>
+    <string name="ques3"> 3.) What is the capital of Japan ?</string>
+    <string name="ans31">Kyoto.</string>
+    <string name="ans32">Tokyo.</string>
+    <string name="ans33">Hiroshima.</string>
+    <string name="ans34">Nagasaki.</string>
+    <string name="ques4"> 4.) Which of these countries do NOT belong to Europe ?</string>
+    <string name="ans41">Czech Republic.</string>
+    <string name="ans42">Spain.</string>
+    <string name="ans43">Argentina.</string>
+    <string name="ans44">Brazil.</string>
+    <string name="ques5"> 5.) Which of these countries are in Asia ?</string>
+    <string name="ans51">India.</string>
+    <string name="ans52">Egypt.</string>
+    <string name="ans53">Japan.</string>
+    <string name="ans54">Philippines.</string>
+    <string name="ques6">6.) "Buenos Aires" is the capital of which country ?</string>
+    <string name="ans61">Write here in CAPS.</string>
+    <string name="ques7">7.) "Jakarta" is the capital of which country ?</string>
+    <string name="ans71">Write here in CAPS.</string>
+    <string name="ques8">8.)  "Istanbul" is in which country ?</string>
+    <string name="ans81">Write here in CAPS.</string>
+    <string name="submit">SUBMIT ANSWERS</string>
+    <string name="reset">Reset!</string>
+    <string name="result">RESULT :</string>
+    <string name="result_hint">result will be displayed here.</string>
+    <string name="warn">Warning : only one attempt allowed.</string>
+    <string name="done">Done!</string>
+
+</resources>
